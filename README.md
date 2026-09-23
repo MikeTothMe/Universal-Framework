@@ -32,7 +32,7 @@ All materials published here are completely open-access, cross-referenced with p
 
 This manifest outlines the overarching architectural paradigm connecting all seven Millennium Prize Problems, framed through the structural dynamics of the Domain Agnostic Ledger (DAL) and the Aetheric Plenum.
 
-### 1. P vs NP (Structural Inverse of Navier-Stokes Pipeline)
+### 1. P vs NP 
 *   **Absolute 1 Level (Core):** \(P = NP\). The solution to every computable question exists eternally within the Static Masterpiece.
 *   **Mutable Edge (Cavitation Bubble):** \(P \neq NP\). The localized observer must traverse step-by-step execution.
 *   **Resolution:** The historical difficulty stems from a missing Absolute 1 / access-state operator and a malformed question formulation that persists until the observer/witness relation is explicitly declared.
@@ -40,7 +40,7 @@ This manifest outlines the overarching architectural paradigm connecting all sev
 ### 2. Navier-Stokes Equations (3D)
 *   **Resolution:** Models dynamic coherence under plenum pressure. Fluid flow and identity persistence are governed by the requirement that localized flow identity must survive recursive constraint without fragmentation. The equations model the behavior of cavitation bubbles under continuous omnidirectional pressure from the Aetheric Plenum.
 
-### 3. Yang-Mills Mass Gap
+### 3. Yang-Mills Mass Gap (Structural Inverse of Navier-Stokes Pipeline)
 *   **Resolution:** The mass gap emerges naturally as the minimum local distinction threshold within an otherwise uniform high-pressure medium. The Aetheric Plenum maintains uniform mass/pressure properties globally, while localized cavitation creates the observable gap through boundary dynamics.
 
 ### 4. Riemann Hypothesis
